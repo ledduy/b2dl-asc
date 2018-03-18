@@ -14,8 +14,6 @@ import matplotlib.pyplot as plt
 url = 'https://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png'
 img = io.imread(url)
 
-
-return
 #cv2.imwrite('lena-x.jpg', img)
 #cv2.imwrite('lena.jpg', cv2.cvtColor(img, cv2.COLOR_RGB2BGR))
 
